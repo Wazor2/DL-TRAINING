@@ -33,7 +33,7 @@ st.radio("Pick one", ["Option A", "Option B"])
 st.checkbox("I agree to the terms")    
 if st.checkbox("show details"):
     st.info("here are your details")
-    option=st.radio("choose view",["show chart","show table"])
+option=st.radio("choose view",["show chart","show table"])
 if option=="show chart":
     st.write("chart would appear here")
 else:
