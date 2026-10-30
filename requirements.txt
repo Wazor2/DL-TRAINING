@@ -8,3 +8,8 @@ langchain_huggingface
 faiss-cpu
 streamlit
 langchain-ollama
+matplotlib
+numpy
+tensorflow
+torch
+ollama
